@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Trained Models
+saved_models/
+*.pkl
+*.joblib
+*.keras
+*.h5
+
+# Log datasets
+HDFS
+training_hdfs
+testing_hdfs
+*.log
+
+# Temporary files
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
