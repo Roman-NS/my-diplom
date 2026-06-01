@@ -19,7 +19,7 @@
 ### 1. Клонируйте репозиторий
 
 ```bash
-git clone https://github.com/USERNAME/REPOSITORY.git
+git clone https://github.com/Roman-NS/my-diplom
 cd REPOSITORY
 ```
 
